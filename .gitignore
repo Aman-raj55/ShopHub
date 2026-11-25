@@ -1,0 +1,4 @@
+/backend/node_modules/
+
+# Optional: ignore frontend node_modules if present
+/frontend/node_modules/
